@@ -434,6 +434,14 @@ PrefabInstance:
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: getReal3D.NavigationUI, getReal3D
       objectReference: {fileID: 0}
+    - target: {fileID: 114823801088270020, guid: 24af6a7d444a9184b9b4f82fd7b11aa6, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114823801088270020, guid: 24af6a7d444a9184b9b4f82fd7b11aa6, type: 3}
+      propertyPath: m_screenPrefab
+      value: 
+      objectReference: {fileID: 1953385000801454, guid: 0e487f86cea53c6469222960fe842f98, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 1336308354785026, guid: 24af6a7d444a9184b9b4f82fd7b11aa6, type: 3}
